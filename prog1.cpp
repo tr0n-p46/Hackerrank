@@ -5,7 +5,6 @@
 #include <limits.h>
 #include <bits/stdc++.h>
 
-#define INP
 #define FOR(i,n) 	        for(int i=0;i<n;i++)
 #define vi                      vector<int>
 #define vl			vector<long>     
